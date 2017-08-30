@@ -11,12 +11,11 @@ class Hello {
 		this.Piyanat() ;
 		this.Sujinno();
         this.Panjapoll();
-<<<<<<< HEAD
-		this.Chananya();
+	this.Chananya();
 this.Chadaporn();
-    }
-=======
-		this.Adichart();
+        this.Chananya();
+        this.Natpapat();
+this.Adichart();
 		this.Sittikorn();
 }
 
@@ -67,5 +66,8 @@ private void Piyanat(){
 	
 	private void Chananya() {
         System.out.println("Trainer - Chananya Phugsuwan, SE");
+    }
+	private void Natpapat() {
+        System.out.println("Trainer - Natpapat Kwaopiwong, ASA");
     }
 }
