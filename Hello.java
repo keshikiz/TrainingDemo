@@ -3,7 +3,7 @@
 class Hello {
     
     public Hello() {
-        System.out.println("Hello! We are:");
+        System.out.println("pornthep.s");
         this.Krerk();
     }
     
