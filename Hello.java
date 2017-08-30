@@ -9,6 +9,7 @@ class Hello {
         this.Chananya();
         this.Natpapat();
 		this.Sirikarn();
+		this.Wichuda();
     }
     
     private void Krerk() {
@@ -19,9 +20,9 @@ class Hello {
     private void Panjapoll() {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
-	 private void Krerk() {
-        System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
-    }
+//	 private void Krerk() {
+//        System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
+//    }
     
     public static void main(String [] argv) {
         new Hello();
@@ -35,5 +36,8 @@ class Hello {
     }
 	private void Sirikarn() {
         System.out.println("Trainer - Sirikarn Sejprom, ASA");
+    }
+	private void Wichuda() {
+        System.out.println("Trainer - Wichuda Kitiikungsadarn, ASA");
     }
 }
