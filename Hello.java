@@ -19,7 +19,7 @@ class Hello {
 		this.Sittikorn();
 }
 
->>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
+
     
     private void Onsiri() {
         System.out.println("Trainer - Onsiri Homsup2");
