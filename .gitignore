@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+gitignore.io
+=======
+>>>>>>> e6bc3e27bab545c1a5951c5314a862d0f92e174e
 
 # Created by https://www.gitignore.io/api/java
 
@@ -25,4 +31,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java
+=======
+# End of https://www.gitignore.io/api/java
+>>>>>>> 7dac198dfdf8be0c92c30acf439eb6cba932d1e7
+>>>>>>> e6bc3e27bab545c1a5951c5314a862d0f92e174e
