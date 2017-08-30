@@ -13,6 +13,7 @@ class Hello {
         this.Panjapoll();
 <<<<<<< HEAD
 		this.Chananya();
+this.Chadaporn();
     }
 =======
 		this.Adichart();
@@ -26,7 +27,9 @@ class Hello {
         System.out.println("  Demo  - Onsiri Homsup2");
     }
 	
-
+private void Piyanat(){
+        System.out.println("  Trainee  - Chadaporn Sukcham, ASA");
+	}
 	private void Piyanat(){
         System.out.println("  Demo  - Piyanat Kongkaew");
 	}
