@@ -4,6 +4,9 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
+
+        this.Onsiri();
+  
         this.Krerk();
 		this.Piyanat() ;
 		this.Sujinno();
@@ -11,10 +14,11 @@ class Hello {
 		this.Adichart();
 		this.Sittikorn();
 }
+
     
-    private void Krerk() {
-        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("  Demo  - Krerk Piromsopa, Ph.D.");
+    private void Onsiri() {
+        System.out.println("Trainer - Onsiri Homsup2");
+        System.out.println("  Demo  - Onsiri Homsup2");
     }
 	
 
