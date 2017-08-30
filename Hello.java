@@ -6,6 +6,7 @@ class Hello {
         System.out.println("Hello! We are:");
         this.Krerk();
         this.Panjapoll();
+		this.Chananya();
     }
     
     private void Krerk() {
@@ -22,5 +23,9 @@ class Hello {
     
     public static void main(String [] argv) {
         new Hello();
+    }
+	
+	private void Chananya() {
+        System.out.println("Trainer - Chananya Phugsuwan, SE");
     }
 }
