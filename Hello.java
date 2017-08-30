@@ -7,7 +7,7 @@ class Hello {
         System.out.println("Hello");
         this.Krerk();
 		this.oat();
-    }
+    
 
         System.out.println("Hello! We are:");
 
@@ -20,11 +20,12 @@ class Hello {
 
 		this.Adichart();
 		this.Sittikorn();
-}
+
 
 
         this.Chananya();
         this.Natpapat();
+		this.Wichuda();
     }
 
     
@@ -78,5 +79,9 @@ class Hello {
     }
 	private void Natpapat() {
         System.out.println("Trainer - Natpapat Kwaopiwong, ASA");
+    }
+	
+	private void Wichuda() {
+        System.out.println("Trainer - Wichuda Kitikungsadarn, ASA");
     }
 }
