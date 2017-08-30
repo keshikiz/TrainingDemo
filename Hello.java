@@ -3,12 +3,12 @@
 class Hello {
     
     public Hello() {
-<<<<<<< HEAD
+
         System.out.println("Hello");
         this.Krerk();
 		this.oat();
     }
-=======
+
         System.out.println("Hello! We are:");
 
         this.Onsiri();
@@ -17,28 +17,27 @@ class Hello {
 		this.Piyanat() ;
 		this.Sujinno();
         this.Panjapoll();
-<<<<<<< HEAD
+
 		this.Adichart();
 		this.Sittikorn();
 }
 
->>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
-=======
+
         this.Chananya();
         this.Natpapat();
     }
->>>>>>> krerk/master
+
     
     private void Onsiri() {
         System.out.println("Trainer - Onsiri Homsup2");
         System.out.println("  Demo  - Onsiri Homsup2");
     }
-<<<<<<< HEAD
+
 	private void oat() {
         System.out.println("kunanan");
    
     }
-=======
+
 	
 
 	private void Piyanat(){
@@ -52,8 +51,11 @@ class Hello {
     private void Panjapoll() {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
-<<<<<<< HEAD
-	
+
+	private void Piyaporn() {
+        System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
+    }
+
 	private void Adichart() {
 		System.out.println("Trainee - Adichart Chanhomhaun, SE");
 	}
@@ -62,13 +64,11 @@ class Hello {
         System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
     }
 
->>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
-=======
+
 	 private void Krerk() {
         System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
     }
->>>>>>> krerk/master
-    
+
     public static void main(String [] args) {
         new Hello();
     }
