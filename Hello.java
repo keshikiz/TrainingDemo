@@ -59,7 +59,11 @@ class Hello {
         System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
     }
 
+<<<<<<< HEAD
 >>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
+=======
+>>>>>>> ae62afdf76a9485c9f15ef54cd26af878fa74520
+>>>>>>> 32998ac64215d9562081e46e3b409031918bd975
     
     public static void main(String [] args) {
         new Hello();
