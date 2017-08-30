@@ -8,6 +8,7 @@ class Hello {
         this.Panjapoll();
         this.Chananya();
         this.Natpapat();
+		this.Sirikarn();
     }
     
     private void Krerk() {
@@ -31,5 +32,8 @@ class Hello {
     }
 	private void Natpapat() {
         System.out.println("Trainer - Natpapat Kwaopiwong, ASA");
+    }
+	private void Sirikarn() {
+        System.out.println("Trainer - Sirikarn Sejprom, ASA");
     }
 }
