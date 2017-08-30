@@ -4,7 +4,7 @@ class Hello {
     
     public Hello() {
         System.out.println("OAT");
-        this.Krerk();
+        //this.Krerk();
     }
     
     private void Krerk() {
@@ -12,7 +12,7 @@ class Hello {
         System.out.println("  Demo  - Krerk Piromsopa, Ph.d.");
     }
     
-    public static void main(String [] argv) {
+    public static void main(String [] args) {
         new Hello();
     }
 }
