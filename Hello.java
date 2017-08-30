@@ -17,11 +17,17 @@ class Hello {
 		this.Piyanat() ;
 		this.Sujinno();
         this.Panjapoll();
+<<<<<<< HEAD
 		this.Adichart();
 		this.Sittikorn();
 }
 
 >>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
+=======
+        this.Chananya();
+        this.Natpapat();
+    }
+>>>>>>> krerk/master
     
     private void Onsiri() {
         System.out.println("Trainer - Onsiri Homsup2");
@@ -46,6 +52,7 @@ class Hello {
     private void Panjapoll() {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
+<<<<<<< HEAD
 	
 	private void Adichart() {
 		System.out.println("Trainee - Adichart Chanhomhaun, SE");
@@ -56,8 +63,20 @@ class Hello {
     }
 
 >>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
+=======
+	 private void Krerk() {
+        System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
+    }
+>>>>>>> krerk/master
     
     public static void main(String [] args) {
         new Hello();
+    }
+	
+	private void Chananya() {
+        System.out.println("Trainer - Chananya Phugsuwan, SE");
+    }
+	private void Natpapat() {
+        System.out.println("Trainer - Natpapat Kwaopiwong, ASA");
     }
 }
