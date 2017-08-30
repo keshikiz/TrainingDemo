@@ -1,8 +1,11 @@
 
-
 class Hello {
     
     public Hello() {
+<<<<<<< HEAD
+        System.out.println("Pornthep Singto");
+        //this.Krerk();
+=======
         System.out.println("Hello! We are:");
 
         this.Onsiri();
@@ -11,11 +14,23 @@ class Hello {
 		this.Piyanat() ;
 		this.Sujinno();
         this.Panjapoll();
+<<<<<<< HEAD
 	this.Chananya();
 this.Chadaporn();
         this.Chananya();
         this.Natpapat();
 this.Adichart();
+=======
+<<<<<<< HEAD
+>>>>>>> e6bc3e27bab545c1a5951c5314a862d0f92e174e
+    }
+    
+    private void Krerk() {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("  Demo  - Krerk Piromsopa, Ph.d.");
+=======
+		this.Adichart();
+>>>>>>> b7ca49afa1bfdf559bc8a8946fb3ca008d44b3ec
 		this.Sittikorn();
 }
 
@@ -24,6 +39,7 @@ this.Adichart();
     private void Onsiri() {
         System.out.println("Trainer - Onsiri Homsup2");
         System.out.println("  Demo  - Onsiri Homsup2");
+>>>>>>> 52a15a280a3e73f24e5722a7369c4d53dc8afb79
     }
 	
 private void Piyanat(){
@@ -60,9 +76,10 @@ private void Piyanat(){
 >>>>>>> ae62afdf76a9485c9f15ef54cd26af878fa74520
 >>>>>>> 32998ac64215d9562081e46e3b409031918bd975
     
-    public static void main(String [] argv) {
+    public static void main(String [] args) {
         new Hello();
     }
+<<<<<<< HEAD
 	
 	private void Chananya() {
         System.out.println("Trainer - Chananya Phugsuwan, SE");
@@ -71,3 +88,6 @@ private void Piyanat(){
         System.out.println("Trainer - Natpapat Kwaopiwong, ASA");
     }
 }
+=======
+}
+>>>>>>> b7ca49afa1bfdf559bc8a8946fb3ca008d44b3ec
